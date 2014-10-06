@@ -1,0 +1,33 @@
+{
+  "name": "Paytone One",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 91053,
+  "fonts": [
+    {
+      "name": "Paytone One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PaytoneOne-TTF.ttf",
+      "postScriptName": "PaytoneOne",
+      "fullName": "Paytone One",
+      "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Paytone One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PaytoneOne-Regular.ttf",
+      "postScriptName": "PaytoneOne",
+      "fullName": "Paytone One",
+      "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-05-04"
+}
